@@ -1,0 +1,8 @@
+import crafttweaker.item.IItemStack;
+
+//Must be item not oreDict
+static hideItems as IItemStack[] = [];
+
+for item in hideItems {
+	mods.jei.JEI.hide(item);
+}
