@@ -1,0 +1,24 @@
+{
+	"id": "Unown",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Unown"
+			},
+			"stringLocationTypes": [
+				"Underground"
+			],
+			"minLevel": 5,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"maxY": 50,
+				"stringBiomes": [
+					"arid",
+					"mesas"
+				]
+			},
+			"rarity": 35.0
+		}
+	]
+}

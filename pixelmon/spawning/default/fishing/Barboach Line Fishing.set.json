@@ -1,0 +1,77 @@
+{
+	"id": "Barboach Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Barboach"
+			},
+			"stringLocationTypes": [
+				"Old Rod"
+			],
+			"minLevel": 3,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"swamps"
+				]
+			},
+			"rarity": 40
+		},
+		{
+			"spec": {
+				"name": "Barboach"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 10,
+			"maxLevel": 28,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"swamps"
+				]
+			},
+			"rarity": 80
+		},
+		{
+			"spec": {
+				"name": "Whiscash"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 43,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"swamps"
+				]
+			},
+			"rarity": 20
+		},
+		{
+			"spec": {
+				"name": "Whiscash"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 43,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"swamps"
+				]
+			},
+			"rarity": 60
+		}
+	]
+}

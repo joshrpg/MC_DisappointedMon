@@ -113,7 +113,7 @@ General {
     # The maximum plants allowed within a chunk. Applies to Apricorns and Berries.
     maximumPlants=32
     # The amount of moves a move Tutor will have
-    movesPerTutor=20
+    movesPerTutor=25
     # Allow each player to take multiple photos of the same Pokémon.
     multiplePhotosOfSamePokemon=true
     # Requires flying and water Pokemon mounts to have HM moves Fly or Surf (respectively) to be able to ride them.
@@ -149,7 +149,7 @@ General {
     # Load external configuration files used for moves from the "pixelmon/moves" folder. If set to true and the "pixelmon/moves" folder does not exist, Pixelmon will create the folder and dump the existing files there.
     useExternalJSONFilesMoves=false
     # Load external configuration files used for NPCs from the "pixelmon/npcs" folder. If set to true and the "pixelmon/npcs" folder does not exist, Pixelmon will create the folder and dump the existing files there.
-    useExternalJSONFilesNPCs=false
+    useExternalJSONFilesNPCs=true
     # Load external configuration files used for battle rules from the "pixelmon/rules" folder. If set to true and the "pixelmon/rules" folder does not exist, Pixelmon will create the folder and dump the existing files there.
     useExternalJSONFilesRules=false
     # Load external configuration files used for spawning from the "pixelmon/spawning" folder. If set to true and the "pixelmon/spawning" folder does not exist, Pixelmon will create the folder and dump the existing files there.

@@ -1,0 +1,90 @@
+{
+	"id": "Magikarp Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Magikarp"
+			},
+			"stringLocationTypes": [
+				"Old Rod"
+			],
+			"minLevel": 2,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"rarity": 150
+		},
+		{
+			"spec": {
+				"name": "Magikarp"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 15,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"rarity": 100
+		},
+		{
+			"spec": {
+				"name": "Gyarados"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 2,
+					"condition": {
+						"weathers": [
+							"RAIN"
+						]
+					}
+				}
+			],
+			"rarityMultipliers": [
+				{
+					"multiplier": 5,
+					"condition": {
+						"weathers": [
+							"STORM"
+						]
+					}
+				}
+			],
+			"rarity":75
+		},
+		{
+			"spec": {
+				"name": "Magikarp"
+			},
+			"stringLocationTypes": [
+				"Old Rod Lava"
+			],
+			"minLevel": 2,
+			"maxLevel": 15,
+			"typeID": "pokemon",
+			"rarity": 1
+		},
+		{ 
+			"spec": {
+				"name": "Magikarp"
+			},
+			"stringLocationTypes": [
+				"Good Rod Lava"
+			],
+			"minLevel": 20,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"rarity": 3
+		}
+	]
+}

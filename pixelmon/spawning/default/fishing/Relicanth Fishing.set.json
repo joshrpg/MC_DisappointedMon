@@ -1,0 +1,22 @@
+{
+	"id": "Relicanth Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Relicanth"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 25,
+			"maxLevel": 38,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"deep_ocean"
+				]
+			},
+			"rarity": 40
+		}
+	]
+}

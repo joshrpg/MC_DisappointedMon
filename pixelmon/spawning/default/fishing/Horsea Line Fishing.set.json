@@ -1,0 +1,145 @@
+{
+	"id": "Horsea Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Horsea"
+			},
+			"stringLocationTypes": [
+				"Old Rod"
+			],
+			"minLevel": 3,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 5,
+					"condition": {
+						"weathers": [
+							"RAIN"
+						]
+					}
+				}
+			],
+			"rarity": 10
+		},
+		{
+			"spec": {
+				"name": "Horsea"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 20,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 5,
+					"condition": {
+						"weathers": [
+							"RAIN"
+						]
+					}
+				}
+			],
+			"rarity": 30
+		},
+		{
+			"spec": {
+				"name": "Seadra"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:dragon_scale",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 5,
+					"condition": {
+						"weathers": [
+							"RAIN"
+						]
+					}
+				}
+			],
+			"rarity": 20
+		},
+		{
+			"spec": {
+				"name": "Seadra"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:dragon_scale",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 5,
+					"condition": {
+						"weathers": [
+							"RAIN"
+						]
+					}
+				}
+			],
+			"rarity": 50
+		},
+		{
+			"spec": {
+				"name": "Kingdra"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 40,
+			"maxLevel": 50,
+			"typeID": "pokemon",
+			"condition": {
+				"weathers": [
+					"STORM"
+				],
+				"stringBiomes": [
+					"deep_ocean"
+				]
+			},
+			"rarity": 60
+		}
+	]
+}

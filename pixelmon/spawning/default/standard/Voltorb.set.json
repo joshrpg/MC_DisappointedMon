@@ -1,0 +1,22 @@
+{
+	"id": "Voltorb",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Voltorb"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 30,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"freezing forests"
+				]
+			},
+			"rarity": 25.0
+		}
+	]
+}

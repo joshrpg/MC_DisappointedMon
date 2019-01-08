@@ -1,0 +1,89 @@
+{
+	"id": "Feebas Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Feebas"
+			},
+			"stringLocationTypes": [
+				"Old Rod"
+			],
+			"minLevel": 3,
+			"maxLevel": 17,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:prism_scale",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"river",
+					"all forests"
+				]
+			},
+			"rarity": 30
+		},
+		{
+			"spec": {
+				"name": "Feebas"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 5,
+			"maxLevel": 17,
+			"typeID": "pokemon",
+			"heldItems": [
+				{
+					"itemID": "pixelmon:prism_scale",
+					"percentChance": 5
+				}
+			],
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"river",
+					"all forests"
+				]
+			},
+			"rarity": 45
+		},
+		{
+			"spec": {
+				"name": "Milotic"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 20,
+			"maxLevel": 37,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 1
+		},
+		{
+			"spec": {
+				"name": "Milotic"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 20,
+			"maxLevel": 37,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 10
+		}
+	]
+}

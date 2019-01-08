@@ -1,0 +1,22 @@
+{
+	"id": "Qwilfish Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Qwilfish"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 18,
+			"maxLevel": 34,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 30
+		}
+	]
+}

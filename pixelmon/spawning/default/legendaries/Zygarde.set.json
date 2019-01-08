@@ -1,0 +1,28 @@
+{
+	"id": "Zygarde",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Zygarde",
+				"level": 70
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"tags": [
+				"legendary"
+			],
+			"interval": "legendary",
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"mesas"
+				]
+			},
+			"rarity": 3
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "Caterpie Line Sweet Scent",
+    "spawnInfos": [
+        {
+            "spec": {
+                "name": "Caterpie"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 2,
+            "maxLevel": 8,
+            "typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests"
+				]
+			},
+            "rarity": 100.0
+        },
+		{
+            "spec": {
+                "name": "Metapod"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 7,
+            "maxLevel": 12,
+            "typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests"
+				]
+			},
+            "rarity": 80.0
+        },
+		{
+            "spec": {
+                "name": "Butterfree"
+            },
+            "stringLocationTypes": [
+                "Sweet Scent"
+            ],
+            "minLevel": 13,
+            "maxLevel": 23,
+            "typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"forests"
+				]
+			},
+            "rarity": 50.0
+        }
+    ]
+}

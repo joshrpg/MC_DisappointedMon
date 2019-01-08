@@ -1,0 +1,77 @@
+{
+	"id": "Goldeen Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Goldeen"
+			},
+			"stringLocationTypes": [
+				"Old Rod"
+			],
+			"minLevel": 2,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"all forests"
+				]
+			},
+			"rarity": 80
+		},
+		{
+			"spec": {
+				"name": "Goldeen"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"all forests"
+				]
+			},
+			"rarity": 80
+		},
+		{
+			"spec": {
+				"name": "Seaking"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"all forests"
+				]
+			},
+			"rarity": 20
+		},
+		{
+			"spec": {
+				"name": "Seaking"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"river",
+					"all forests"
+				]
+			},
+			"rarity": 120
+		}
+	]
+}

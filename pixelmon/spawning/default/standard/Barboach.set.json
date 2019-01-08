@@ -1,0 +1,24 @@
+{
+	"id": "Barboach",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Barboach"
+			},
+			"stringLocationTypes": [
+				"Water"
+			],
+			"minLevel": 3,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps",
+					"river",
+					"all forests"
+				]
+			},
+			"rarity": 100.0
+		}
+	]
+}

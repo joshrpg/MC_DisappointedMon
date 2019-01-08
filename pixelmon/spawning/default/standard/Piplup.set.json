@@ -1,0 +1,27 @@
+{
+	"id": "Piplup",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Piplup"
+			},
+			"stringLocationTypes": [
+				"Land"
+			],
+			"minLevel": 5,
+			"maxLevel": 10,
+			"typeID": "pokemon",
+			"condition": {
+				"times": [
+					"DAWN",
+					"DUSK",
+					"NIGHT"
+				],
+				"stringBiomes": [
+					"freezing"
+				]
+			},
+			"rarity": 50.0
+		}
+	]
+}

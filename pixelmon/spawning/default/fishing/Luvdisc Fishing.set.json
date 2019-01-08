@@ -1,0 +1,39 @@
+{
+	"id": "Luvdisc Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Luvdisc"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 11,
+			"maxLevel": 27,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 60
+		},
+		{
+			"spec": {
+				"name": "Luvdisc"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 11,
+			"maxLevel": 27,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic"
+				]
+			},
+			"rarity": 80
+		}
+	]
+}

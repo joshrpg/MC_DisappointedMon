@@ -1,0 +1,160 @@
+{
+	"id": "Slugma Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Slugma"
+			},
+			"stringLocationTypes": [
+				"Old Rod Lava"
+			],
+			"minLevel": 3,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 0.5,
+					"condition": {
+						"stringBiomes": [
+							"arid",
+							"savannas",
+							"mesas"
+						]
+					}
+				}
+			],
+			"rarity": 75
+		},
+		{
+			"spec": {
+				"name": "Slugma"
+			},
+			"stringLocationTypes": [
+				"Good Rod Lava"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 0.5,
+					"condition": {
+						"stringBiomes": [
+							"arid",
+							"savannas",
+							"mesas"
+						]
+					}
+				}
+			],
+			"rarity": 90
+		},
+		{
+			"spec": {
+				"name": "Slugma"
+			},
+			"stringLocationTypes": [
+				"Super Rod Lava"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 0.5,
+					"condition": {
+						"stringBiomes": [
+							"arid",
+							"savannas",
+							"mesas"
+						]
+					}
+				}
+			],
+			"rarity": 20
+		},
+		{
+			"spec": {
+				"name": "Magcargo"
+			},
+			"stringLocationTypes": [
+				"Good Rod Lava"
+			],
+			"minLevel": 5,
+			"maxLevel": 20,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 0.5,
+					"condition": {
+						"stringBiomes": [
+							"arid",
+							"savannas",
+							"mesas"
+						]
+					}
+				}
+			],
+			"rarity": 30
+		},
+		{
+			"spec": {
+				"name": "Magcargo"
+			},
+			"stringLocationTypes": [
+				"Super Rod Lava"
+			],
+			"minLevel": 25,
+			"maxLevel": 35,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"arid",
+					"savannas",
+					"mesas"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 0.5,
+					"condition": {
+						"stringBiomes": [
+							"arid",
+							"savannas",
+							"mesas"
+						]
+					}
+				}
+			],
+			"rarity": 70
+		}
+	]
+}

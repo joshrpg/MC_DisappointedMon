@@ -1,0 +1,89 @@
+{
+	"id": "Staryu Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Staryu"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 15,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 0.3,
+					"condition": {
+						"times": [
+							"DAY"
+						]
+					}
+				}
+			],
+			"rarity": 50
+		},
+		{
+			"spec": {
+				"name": "Staryu"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 20,
+			"maxLevel": 25,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 0.3,
+					"condition": {
+						"times": [
+							"DAY"
+						]
+					}
+				}
+			],
+			"rarity": 65
+		},
+		{
+			"spec": {
+				"name": "Starmie"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 25,
+			"maxLevel": 40,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"oceanic",
+					"beaches"
+				]
+			},
+			"rarityMultipliers": [
+				{
+					"multiplier": 0.3,
+					"condition": {
+						"times": [
+							"DAY"
+						]
+					}
+				}
+			],
+			"rarity": 35
+		}
+	]
+}

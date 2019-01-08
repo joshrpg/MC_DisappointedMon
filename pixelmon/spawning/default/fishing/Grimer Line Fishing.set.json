@@ -1,0 +1,73 @@
+{
+	"id": "Grimer Line Fishing",
+	"spawnInfos": [
+		{
+			"spec": {
+				"name": "Grimer"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 15,
+			"maxLevel": 32,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 100
+		},
+		{
+			"spec": {
+				"name": "Grimer"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 15,
+			"maxLevel": 32,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 40
+		},
+		{
+			"spec": {
+				"name": "Muk"
+			},
+			"stringLocationTypes": [
+				"Good Rod"
+			],
+			"minLevel": 37,
+			"maxLevel": 45,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 20
+		},
+		{
+			"spec": {
+				"name": "Muk"
+			},
+			"stringLocationTypes": [
+				"Super Rod"
+			],
+			"minLevel": 30,
+			"maxLevel": 42,
+			"typeID": "pokemon",
+			"condition": {
+				"stringBiomes": [
+					"swamps"
+				]
+			},
+			"rarity": 60
+		}
+	]
+}
