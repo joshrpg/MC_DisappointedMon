@@ -2314,9 +2314,28 @@
       "name": "pixelmon:blastoisinite"
     },
     {
-      "name": "minecraft:wool",
-      "buy": 200,
-      "sell": 100
+      "name":"pixelmon:calcium", 
+      "buy": 1000
+    },
+    {
+      "name":"pixelmon:carbos", 
+      "buy": 1000
+    },
+    {
+      "name":"pixelmon:hp_up", 
+      "buy": 1000
+    },
+    {
+      "name":"pixelmon:iron", 
+      "buy": 1000
+    },
+    {
+      "name":"pixelmon:protein", 
+      "buy": 1000
+    },
+    {
+      "name":"pixelmon:zinc", 
+      "buy": 1000
     }
   ]
 } 

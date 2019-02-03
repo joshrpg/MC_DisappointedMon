@@ -108,6 +108,24 @@
     },
     {
       "name": "pixelmon:pokemail_wood"
+    },
+    {
+      "name":"pixelmon:calcium"
+    },
+    {
+      "name":"pixelmon:carbos"
+    },
+    {
+      "name":"pixelmon:hp_up"
+    },
+    {
+      "name":"pixelmon:iron"
+    },
+    {
+      "name":"pixelmon:protein"
+    },
+    {
+      "name":"pixelmon:zinc"
     }
   ]
 }
