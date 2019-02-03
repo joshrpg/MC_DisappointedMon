@@ -2,9 +2,9 @@ import crafttweaker.item.IItemStack;
 
 //Must be item not oreDict
 static removeAndHideItems as IItemStack[] = [
-	<pixelmon:uno_orb>, /* it craches the game when it renders */
-	<pixelmon:dos_orb>, /* it craches the game when it renders */
-	<pixelmon:tres_orb>, /* it craches the game when it renders */
+	//<pixelmon:uno_orb>, /* it craches the game when it renders, fixed in 7.0 so added back*/
+	//<pixelmon:dos_orb>, /* it craches the game when it renders, fixed in 7.0 so added back*/
+	//<pixelmon:tres_orb>, /* it craches the game when it renders, fixed in 7.0 so added back*/
 	<minecraft:tipped_arrow>.withTag({Potion: "minecraft:night_vision"}),
 	<minecraft:tipped_arrow>.withTag({Potion: "minecraft:long_night_vision"}),
 	<minecraft:tipped_arrow>.withTag({Potion: "minecraft:invisibility"}),
